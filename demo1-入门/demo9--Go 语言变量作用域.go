@@ -43,7 +43,7 @@ func main() {
 	var a int = 20;
 
 	func main()
-		 main 函数中声明局部变量
+	main 函数中声明局部变量
 		var a int = 10
 		var b int = 20
 		var c int = 0
