@@ -42,9 +42,14 @@ func main() {
 
 	fruit = apples + oranges; */
 
-	var age int;
+	var age int
 	// 默认值0类似java全局的变量初始化0；
 	println(age)
 	age = 101
 	println(age)
+
+	println("*********************************************************")
+	var name string
+	name = "皮皮程"
+	println(name)
 }

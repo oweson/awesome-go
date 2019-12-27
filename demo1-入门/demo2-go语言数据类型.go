@@ -30,7 +30,7 @@ func main() {
 	println("布尔类型的a的值是：")
 	println(a)
 	// 2 数字运算
-	var number float64;
+	var number float64
 	println(number)
 	/*数字类型
 	Go 也有基于架构的类型，例如：int、uint 和 uintptr。
@@ -79,6 +79,5 @@ func main() {
 	与 uint 一样大小
 	5	uintptr
 	无符号整型，用于存放一个指针*/
-
 
 }
